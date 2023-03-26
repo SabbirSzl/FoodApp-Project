@@ -29,7 +29,7 @@ export const sample_foods: Food[] = [
     name: 'Viral Queen',
     price: 197,
     cookTime: '15-25',
-    favorite: false,
+    favorite: true,
     origins: ['China','America'],
     stars: 7.5,
     imageUrl: 'assets/food3.jpg',
